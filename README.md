@@ -1,11 +1,6 @@
 # 🛍 Online Clothing Store  
 An online clothing store built with the MERN stack (MongoDB, Express, React, Node.js). This project allows users to browse clothing items, add them to a cart, and make purchases. It also provides admin functionality to manage products, view orders, and more.
 
-## Preview
-<img width="1470" alt="Screenshot 2025-03-11 at 6 52 03 PM" src="https://github.com/user-attachments/assets/2cd5bc78-2618-465e-aa27-e0678e6e9bc8" />
-
-
-
 ## ✨ Features  
 
    **➣ User Features:**
@@ -37,12 +32,10 @@ The project was developed as a group assignment and includes both front-end and 
 
 
 ## 🛠 Tech Stack  
-- **Frontend:** React, Redux, Tailwind CSS  
+- **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB / MySQL  
-- **Authentication:** JWT, Firebase Auth  
-- **Payment Gateway:** Stripe / PayPal  
-- **Hosting:** Vercel, Netlify, or AWS  
+- **Database:** MongoDB
+- **Hosting:** Vercel
 
 ## 🚀 Setup & Installation  
 1. Clone the repository:  
@@ -62,13 +55,6 @@ The project was developed as a group assignment and includes both front-end and 
 5. Access the app at `http://localhost:3000/`
 
 
-## 🏗 Future Enhancements  
-- Wishlist feature  
-- AI-based personalized recommendations  
-- Multi-vendor marketplace  
-
-## 📜 License  
-This project is licensed under the **MIT License**.
 
 👥 **Contributors Welcome!** Feel free to fork, contribute, and submit pull requests.  
 
