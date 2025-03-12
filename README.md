@@ -1,6 +1,11 @@
 # 🛍 Online Clothing Store  
 An online clothing store built with the MERN stack (MongoDB, Express, React, Node.js). This project allows users to browse clothing items, add them to a cart, and make purchases. It also provides admin functionality to manage products, view orders, and more.
 
+## Preview
+<img width="1470" alt="Screenshot 2025-03-11 at 6 52 03 PM" src="https://github.com/user-attachments/assets/2cd5bc78-2618-465e-aa27-e0678e6e9bc8" />
+
+
+
 ## ✨ Features  
 
    **➣ User Features:**
