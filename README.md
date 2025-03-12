@@ -40,7 +40,7 @@ The project was developed as a group assignment and includes both front-end and 
 ## 🚀 Setup & Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/online-clothing-store.git
+   git clone https://github.com/your-username/E-commerce-clothing-Website.git
    cd online-clothing-store
    ```  
 2. Install dependencies:  
