@@ -55,7 +55,4 @@ The project was developed as a group assignment and includes both front-end and 
 5. Access the app at `http://localhost:3000/`
 
 
-
-👥 **Contributors Welcome!** Feel free to fork, contribute, and submit pull requests.  
-
 ---
